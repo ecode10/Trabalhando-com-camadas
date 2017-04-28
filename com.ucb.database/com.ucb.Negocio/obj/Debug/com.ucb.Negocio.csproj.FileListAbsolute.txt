@@ -1,0 +1,7 @@
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.Negocio\bin\Debug\com.ucb.Negocio.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.Negocio\bin\Debug\com.ucb.Negocio.pdb
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.Negocio\bin\Debug\com.ucb.database.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.Negocio\bin\Debug\com.ucb.database.pdb
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.Negocio\obj\Debug\com.ucb.Negocio.csprojResolveAssemblyReference.cache
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.Negocio\obj\Debug\com.ucb.Negocio.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.Negocio\obj\Debug\com.ucb.Negocio.pdb

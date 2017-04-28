@@ -1,0 +1,5 @@
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.DataTransferObject\bin\Debug\com.ucb.DataTransferObject.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.DataTransferObject\bin\Debug\com.ucb.DataTransferObject.pdb
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.DataTransferObject\obj\Debug\com.ucb.DataTransferObject.csprojResolveAssemblyReference.cache
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.DataTransferObject\obj\Debug\com.ucb.DataTransferObject.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.DataTransferObject\obj\Debug\com.ucb.DataTransferObject.pdb

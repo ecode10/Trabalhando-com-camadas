@@ -1,0 +1,4 @@
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.database\bin\Debug\com.ucb.database.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.database\bin\Debug\com.ucb.database.pdb
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.database\obj\Debug\com.ucb.database.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.database\obj\Debug\com.ucb.database.pdb

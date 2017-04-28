@@ -1,0 +1,13 @@
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\WindowsUCB.exe.config
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\obj\Debug\WindowsUCB.csprojResolveAssemblyReference.cache
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\obj\Debug\WindowsUCB.Properties.Resources.resources
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\obj\Debug\WindowsUCB.csproj.GenerateResource.Cache
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\WindowsUCB.exe
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\WindowsUCB.pdb
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\obj\Debug\WindowsUCB.exe
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\obj\Debug\WindowsUCB.pdb
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\com.ucb.database.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\com.ucb.Negocio.dll
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\com.ucb.database.pdb
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\com.ucb.Negocio.pdb
+c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\obj\Debug\WindowsUCB.Form1.resources
