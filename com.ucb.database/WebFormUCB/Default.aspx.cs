@@ -43,5 +43,25 @@ namespace WebFormUCB
             }
 
         }
+
+        protected void grdDisciplinas_RowCommand(object sender, GridViewCommandEventArgs e)
+        {
+            if (e.CommandName == "Deletar")
+            {
+                //index da linha
+                var index = int.Parse((string)(e.CommandArgument));
+
+                //a chave da tabela baseado no index da linha
+                var chave = this.grdDisciplinas.DataKeys[index]["IdDisc"].ToString();
+
+                //chamar o método que deleta passando os parmetros
+                DisciplinasDTO _dto = new DisciplinasDTO();
+                _dto.idDisc = int.Parse(chave);
+
+                DisciplinasNegocio _negocio = new DisciplinasNegocio();
+                if (_negocio.deleteDisciplina(_dto))
+                    Response.Redirect("Default");
+            }
+        }
     }
 }

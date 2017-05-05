@@ -7,10 +7,18 @@
     <asp:TextBox runat="server" ID="txtNomeDisciplina" placeholder="Nome da disciplina" />
     <asp:Button Text="Salvar" ID="btnSalvarDisciplina" OnClick="btnSalvarDisciplina_Click" runat="server" />
     <br /><br />
+
     <div class="row">
         <div class="col-md-4">
-            <asp:GridView runat="server" ID="grdDisciplinas">
-
+            <asp:GridView runat="server" DataKeyNames="IdDisc" AutoGenerateColumns="false" CellPadding="10" CellSpacing="10" 
+                ID="grdDisciplinas" OnRowCommand="grdDisciplinas_RowCommand" Width="50%" GridLines="None">
+                <AlternatingRowStyle BackColor="Yellow" /> 
+                <HeaderStyle BackColor="Silver" />
+                <Columns>
+                    <asp:BoundField DataField="IdDisc" HeaderText="Id" />
+                    <asp:BoundField DataField="NomeDisc" HeaderText="Nome" />
+                    <asp:ButtonField HeaderText="Deletar" Text="[ X ]" CommandName="Deletar" />
+                </Columns>
             </asp:GridView>
         </div>
     </div>
