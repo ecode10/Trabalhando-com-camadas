@@ -13,6 +13,24 @@ namespace WebFormUCB {
     public partial class _Default {
         
         /// <summary>
+        /// txtNomeDisciplina control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.TextBox txtNomeDisciplina;
+        
+        /// <summary>
+        /// btnSalvarDisciplina control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Button btnSalvarDisciplina;
+        
+        /// <summary>
         /// grdDisciplinas control.
         /// </summary>
         /// <remarks>

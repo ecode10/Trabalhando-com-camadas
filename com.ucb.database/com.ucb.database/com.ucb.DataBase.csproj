@@ -44,6 +44,12 @@
     <Compile Include="DisciplinasDAL.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\com.ucb.DataTransferObject\com.ucb.DataTransferObject.csproj">
+      <Project>{F7F49983-9EC1-40CD-94F0-1513943491B5}</Project>
+      <Name>com.ucb.DataTransferObject</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

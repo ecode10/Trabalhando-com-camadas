@@ -11,3 +11,5 @@ c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\W
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\com.ucb.database.pdb
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\com.ucb.Negocio.pdb
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WindowsUCB\obj\Debug\WindowsUCB.Form1.resources
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\com.ucb.DataTransferObject.dll
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\com.ucb.database\WindowsUCB\bin\Debug\com.ucb.DataTransferObject.pdb

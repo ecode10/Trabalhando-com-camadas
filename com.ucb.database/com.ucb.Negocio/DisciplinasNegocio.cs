@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using com.ucb.database;
 using System.Data;
+using com.ucb.DataTransferObject;
 
 namespace com.ucb.Negocio
 {
@@ -35,6 +36,35 @@ namespace com.ucb.Negocio
             catch (Exception ex)
             {
 
+                throw ex;
+            }
+        }
+
+        public Boolean deleteDisciplina(DisciplinasDTO dto)
+        {
+            try
+            {
+                return _displinasDAL.deleteDisciplina(dto);
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public Boolean insertDisciplina(DisciplinasDTO dto)
+        {
+            try
+            {
+                if (!String.IsNullOrEmpty(dto.nomeDisc))
+                {
+                    return _displinasDAL.insertDisciplina(dto);
+                }
+                else
+                    return false;
+            }
+            catch (Exception ex)
+            {
                 throw ex;
             }
         }

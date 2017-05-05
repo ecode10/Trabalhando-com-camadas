@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
+using com.ucb.DataTransferObject;
 
 namespace com.ucb.database
 {
@@ -14,6 +15,56 @@ namespace com.ucb.database
     /// </summary>
     public class DisciplinasDAL
     {
+        public Boolean deleteDisciplina(DisciplinasDTO dto)
+        {
+            try
+            {
+                using (SqlConnection _connection = new SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings["MinhaConexao"].ToString()))
+                {
+                    var sql = "DELETE FROM Disciplinas WHERE IDDisc = @IdDisc";
+
+                    using (SqlCommand _command = new SqlCommand(sql, _connection))
+                    {
+                        _command.Parameters.Add("@IdDisc", SqlDbType.VarChar).Value = dto.idDisc;
+
+                        _connection.Open();
+                        _command.ExecuteNonQuery();
+
+                        return true;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
+        public Boolean insertDisciplina(DisciplinasDTO dto)
+        {
+            try
+            {
+                using (SqlConnection _connection = new SqlConnection(System.Configuration.ConfigurationManager.ConnectionStrings["MinhaConexao"].ToString()))
+                {
+                    var sql = "INSERT INTO Disciplinas (NomeDisc) VALUES (@Nome)";
+
+                    using (SqlCommand _command = new SqlCommand(sql, _connection))
+                    {
+                        _command.Parameters.Add("@Nome", SqlDbType.VarChar).Value = dto.nomeDisc;
+
+                        _connection.Open();
+                        _command.ExecuteNonQuery();
+
+                        return true;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                throw ex;
+            }
+        }
+
         /// <summary>
         /// Método que busca todas as disciplinas 
         /// </summary>

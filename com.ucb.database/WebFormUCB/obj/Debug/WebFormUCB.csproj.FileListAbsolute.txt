@@ -81,3 +81,5 @@ c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\W
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WebFormUCB\bin\com.ucb.Negocio.dll
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WebFormUCB\bin\com.ucb.database.pdb
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\WebFormUCB\bin\com.ucb.Negocio.pdb
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\com.ucb.database\WebFormUCB\bin\com.ucb.DataTransferObject.dll
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\com.ucb.database\WebFormUCB\bin\com.ucb.DataTransferObject.pdb

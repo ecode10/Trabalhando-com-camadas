@@ -2,3 +2,6 @@ c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\c
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.database\bin\Debug\com.ucb.database.pdb
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.database\obj\Debug\com.ucb.database.dll
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.database\obj\Debug\com.ucb.database.pdb
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\com.ucb.database\com.ucb.database\bin\Debug\com.ucb.DataTransferObject.dll
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\com.ucb.database\com.ucb.database\bin\Debug\com.ucb.DataTransferObject.pdb
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\com.ucb.database\com.ucb.database\obj\Debug\com.ucb.DataBase.csprojResolveAssemblyReference.cache

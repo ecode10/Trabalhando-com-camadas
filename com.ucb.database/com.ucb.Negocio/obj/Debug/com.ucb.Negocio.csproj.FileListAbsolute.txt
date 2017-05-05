@@ -5,3 +5,5 @@ c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\c
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.Negocio\obj\Debug\com.ucb.Negocio.csprojResolveAssemblyReference.cache
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.Negocio\obj\Debug\com.ucb.Negocio.dll
 c:\users\mauriciojunior\documents\visual studio 2015\Projects\com.ucb.database\com.ucb.Negocio\obj\Debug\com.ucb.Negocio.pdb
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\com.ucb.database\com.ucb.Negocio\bin\Debug\com.ucb.DataTransferObject.dll
+C:\Users\mauriciojunior\Documents\Visual Studio 2015\Projects\com.ucb.database\com.ucb.Negocio\bin\Debug\com.ucb.DataTransferObject.pdb

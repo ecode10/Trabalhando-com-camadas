@@ -425,6 +425,10 @@
       <Project>{e6bf9eea-e6fd-459a-913d-82040eee0b14}</Project>
       <Name>com.ucb.DataBase</Name>
     </ProjectReference>
+    <ProjectReference Include="..\com.ucb.DataTransferObject\com.ucb.DataTransferObject.csproj">
+      <Project>{F7F49983-9EC1-40CD-94F0-1513943491B5}</Project>
+      <Name>com.ucb.DataTransferObject</Name>
+    </ProjectReference>
     <ProjectReference Include="..\com.ucb.Negocio\com.ucb.Negocio.csproj">
       <Project>{91014a8b-19fc-4a83-a331-2c76f60ec17b}</Project>
       <Name>com.ucb.Negocio</Name>

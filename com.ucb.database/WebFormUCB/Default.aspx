@@ -2,6 +2,11 @@
 
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
 
+    <br /><br /><br />
+    <h1>Inserir Disciplinas</h1>
+    <asp:TextBox runat="server" ID="txtNomeDisciplina" placeholder="Nome da disciplina" />
+    <asp:Button Text="Salvar" ID="btnSalvarDisciplina" OnClick="btnSalvarDisciplina_Click" runat="server" />
+    <br /><br />
     <div class="row">
         <div class="col-md-4">
             <asp:GridView runat="server" ID="grdDisciplinas">
